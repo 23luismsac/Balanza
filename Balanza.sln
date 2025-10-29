@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Balanza", "Balanza\Balanza.csproj", "{63F39F65-5501-43AC-B0EB-C176F5045EEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63F39F65-5501-43AC-B0EB-C176F5045EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63F39F65-5501-43AC-B0EB-C176F5045EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63F39F65-5501-43AC-B0EB-C176F5045EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63F39F65-5501-43AC-B0EB-C176F5045EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14D82547-DB0D-4E07-A4DE-5B2AD9A260AB}
+	EndGlobalSection
+EndGlobal

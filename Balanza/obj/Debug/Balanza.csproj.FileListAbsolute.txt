@@ -1,0 +1,35 @@
+D:\Prueba Balanza\Balanza\Balanza\bin\Debug\Balanza.exe.config
+D:\Prueba Balanza\Balanza\Balanza\bin\Debug\Balanza.exe
+D:\Prueba Balanza\Balanza\Balanza\bin\Debug\Balanza.pdb
+D:\Prueba Balanza\Balanza\Balanza\obj\Debug\Balanza.csproj.AssemblyReference.cache
+D:\Prueba Balanza\Balanza\Balanza\obj\Debug\Balanza.csproj.CoreCompileInputs.cache
+D:\Prueba Balanza\Balanza\Balanza\obj\Debug\Balanza.exe
+D:\Prueba Balanza\Balanza\Balanza\obj\Debug\Balanza.pdb
+D:\Prueba Balanza\Balanza\Balanza\bin\Debug\Newtonsoft.Json.dll
+D:\Prueba Balanza\Balanza\Balanza\bin\Debug\Newtonsoft.Json.xml
+D:\Prueba Balanza\Balanza\Balanza\obj\Debug\Balanza.csproj.CopyComplete
+D:\Prueba Balanza\Balanza\Balanza\bin\Debug\RestSharp.dll
+D:\Prueba Balanza\Balanza\Balanza\bin\Debug\RestSharp.xml
+C:\Consola Balanza ODOO\Balanza\Balanza\bin\Debug\Balanza.exe.config
+C:\Consola Balanza ODOO\Balanza\Balanza\bin\Debug\Balanza.exe
+C:\Consola Balanza ODOO\Balanza\Balanza\bin\Debug\Balanza.pdb
+C:\Consola Balanza ODOO\Balanza\Balanza\bin\Debug\Newtonsoft.Json.dll
+C:\Consola Balanza ODOO\Balanza\Balanza\bin\Debug\RestSharp.dll
+C:\Consola Balanza ODOO\Balanza\Balanza\bin\Debug\Newtonsoft.Json.xml
+C:\Consola Balanza ODOO\Balanza\Balanza\bin\Debug\RestSharp.xml
+C:\Consola Balanza ODOO\Balanza\Balanza\obj\Debug\Balanza.csproj.AssemblyReference.cache
+C:\Consola Balanza ODOO\Balanza\Balanza\obj\Debug\Balanza.csproj.CoreCompileInputs.cache
+C:\Consola Balanza ODOO\Balanza\Balanza\obj\Debug\Balanza.csproj.CopyComplete
+C:\Consola Balanza ODOO\Balanza\Balanza\obj\Debug\Balanza.exe
+C:\Consola Balanza ODOO\Balanza\Balanza\obj\Debug\Balanza.pdb
+W:\Consola Balanza ODOO\Balanza\Balanza\bin\Debug\Balanza.exe.config
+W:\Consola Balanza ODOO\Balanza\Balanza\bin\Debug\Balanza.exe
+W:\Consola Balanza ODOO\Balanza\Balanza\bin\Debug\Balanza.pdb
+W:\Consola Balanza ODOO\Balanza\Balanza\bin\Debug\Newtonsoft.Json.dll
+W:\Consola Balanza ODOO\Balanza\Balanza\bin\Debug\RestSharp.dll
+W:\Consola Balanza ODOO\Balanza\Balanza\bin\Debug\Newtonsoft.Json.xml
+W:\Consola Balanza ODOO\Balanza\Balanza\bin\Debug\RestSharp.xml
+W:\Consola Balanza ODOO\Balanza\Balanza\obj\Debug\Balanza.csproj.CoreCompileInputs.cache
+W:\Consola Balanza ODOO\Balanza\Balanza\obj\Debug\Balanza.csproj.CopyComplete
+W:\Consola Balanza ODOO\Balanza\Balanza\obj\Debug\Balanza.exe
+W:\Consola Balanza ODOO\Balanza\Balanza\obj\Debug\Balanza.pdb
