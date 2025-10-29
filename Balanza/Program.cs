@@ -389,7 +389,7 @@ namespace Balanza
 		private static string EnviarDatoOdoo(Int32 NroBalanza, String DescripcionBalanza, decimal Peso,DateTime FechaRegistro) {
 			//var url = $"https://23luismsac-grupotrc-atcsac2-10264358.dev.odoo.com/jsonrpc/";
 			// var url = $"https://23luismsac-grupotrc-atcsac4-14467625.dev.odoo.com/jsonrpc/";
-			var url = $"https://23luismsac-grupotrc-atcsac5-16191809.dev.odoo.com/jsonrpc/";
+			var url = $"https://grupotrc-25-10-25-test-24923397.dev.odoo.com/jsonrpc/";
 			ServicePointManager.Expect100Continue = true;
 			ServicePointManager.SecurityProtocol = SecurityProtocolType.Tls12;
 			var request = (HttpWebRequest)WebRequest.Create(url);
@@ -399,7 +399,7 @@ namespace Balanza
 				"\"params\":{\"service\":\"object\"," +
 							"\"method\":\"execute\"," +
 							//"\"args\":[\"23luismsac-grupotrc-atcsac2-10264358\",6,\"54f718cdff3d52665ff1da12b27b8e730f883649\",\"trc.atsa.weight\",\"create\"," +
-							"\"args\":[\"23luismsac-grupotrc-atcsac5-16191809\",6,\"82e3beaa5d910457e44cb17b92d2b2268eaf76e6\",\"trc.atsa.weight\",\"create\"," +
+							"\"args\":[\"grupotrc-25-10-25-test-24923397\",2,\"ab38371e563b554d6f2858bf55243e9bb07f51c3\",\"trc.atsa.weight\",\"create\"," +
 											"{\"scale_number\":\"" + NroBalanza +"\"," +
 											"\"scale_description\":\""+ DescripcionBalanza +"\"," +
 											"\"weight\":\""+ Peso.ToString() +"\"," +
@@ -448,3 +448,4 @@ namespace Balanza
 	}
 
 }
+
